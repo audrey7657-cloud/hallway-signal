@@ -1,0 +1,198 @@
+audio/bad_end.mp3
+music -
+audio/bed_sheets_moving.mp3
+music -
+audio/bell.mp3
+music -
+audio/bgm_epilogue_soft.mp3
+music -
+audio/bgm_hidden_reflective.mp3
+music -
+audio/bgm_normal_quiet.mp3
+music -
+audio/bgm_step_gentle.mp3
+music -
+audio/bgm_true_warm.mp3
+music -
+audio/cellphone.mp3
+music -
+audio/children.mp3
+music -
+audio/door_open.mp3
+music -
+audio/heartbeat.mp3
+music -
+audio/main_menu_bgm.mp3
+music -
+audio/page_flip.mp3
+music -
+audio/punch.mp3
+music -
+audio/start.mp3
+music -
+images/bg_1.jpg
+image 1279,720
+images/bg_10.jpg
+image 1280,720
+images/bg_11.jpg
+image 1279,720
+images/bg_12.jpg
+image 1279,720
+images/bg_13.jpg
+image 1280,720
+images/bg_14.jpg
+image 1279,720
+images/bg_15.jpg
+image 1280,720
+images/bg_16.jpg
+image 1279,720
+images/bg_17.jpg
+image 1280,720
+images/bg_2.jpg
+image 1279,720
+images/bg_3.jpg
+image 1279,720
+images/bg_4.jpg
+image 1279,720
+images/bg_5.jpg
+image 1280,720
+images/bg_6.jpg
+image 1280,720
+images/bg_7.jpg
+image 1279,720
+images/bg_8.jpg
+image 1279,720
+images/bg_9.jpg
+image 1280,720
+images/cg_1.jpg
+image 1279,720
+images/cg_2.jpg
+image 1280,720
+images/cg_3.jpg
+image 1280,720
+images/cg_4.png
+image 600,600
+images/cg_5.png
+image 600,600
+images/cg_6.png
+image 600,600
+images/cg_7.jpg
+image 1280,720
+images/cg_8.jpg
+image 1279,720
+images/cg_9.jpg
+image 1277,720
+images/cg_b1.jpg
+image 1280,721
+images/cg_b2.jpg
+image 1280,720
+images/cg_b3.jpg
+image 1280,720
+images/cg_h1.jpg
+image 1280,720
+images/cg_h2.jpg
+image 1280,720
+images/cg_n1.jpg
+image 1280,720
+images/cg_s1.jpg
+image 1280,720
+images/cg_s2.jpg
+image 1280,719
+images/cg_s3.jpg
+image 1279,720
+images/cg_s4.jpg
+image 1280,720
+images/cg_t1.jpg
+image 1280,720
+images/cg_t2.jpg
+image 1280,720
+images/cg_t3.jpg
+image 1279,720
+images/cg_t4.jpg
+image 1280,720
+images/classroom_r1_investigation.png.jpg
+image 1279,720
+images/h10.png
+image 512,640
+images/h16.png
+image 480,640
+images/h21.png
+image 480,640
+images/h23.png
+image 512,640
+images/h25.png
+image 512,640
+images/h28.png
+image 512,640
+images/h3.png
+image 480,640
+images/h4.png
+image 512,640
+images/h5.png
+image 512,640
+images/j1.png
+image 512,640
+images/j2.png
+image 512,640
+images/m1.png
+image 512,640
+images/m10.png
+image 512,640
+images/m12.png
+image 512,640
+images/m2.png
+image 512,640
+images/m3.png
+image 512,640
+images/m4.png
+image 512,640
+images/m5.png
+image 512,640
+images/m7.png
+image 512,640
+images/m9.png
+image 512,640
+images/pe.png
+image 1280,721
+images/pt1.png
+image 538,717
+images/s10.png
+image 512,640
+images/s11.png
+image 480,640
+images/s2.png
+image 512,640
+images/s3.png
+image 512,640
+images/s6.png
+image 512,640
+images/s8.png
+image 512,640
+images/s9.png
+image 512,640
+images/t1.png
+image 540,720
+images/t4.png
+image 540,720
+images/t5.png
+image 540,720
+images/t6.png
+image 540,720
+images/t7.png
+image 540,720
+images/t9.png
+image 540,720
+images/ui/profile_soyoon.png
+image 95,95
+images/y2.png
+image 480,640
+images/y3.png
+image 480,640
+images/y4.png
+image 480,640
+images/y6.png
+image 480,640
+images/y8.png
+image 480,640
+images/y9.png
+image 480,640
